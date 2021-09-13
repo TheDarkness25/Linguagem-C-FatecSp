@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="Menor indice de um vetor.c" />
+	<category name="Maior(vetor).c" />
+	<category name="Resto.c" />
+	<category name="Divide.c" />
+	<category name="Potencia.c" />
+	<category name="Fatorial.c" />
+	<category name="Par.c" />
+</settings>
